@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="0.517222">
+    <testcase classname="To Validate home page" name="To validate the home page" time="0.320145">
+        <system-out><![CDATA[Given User is on home page..................................................passed
+When User enter the details.................................................passed
+Then user Click the ok button and user is on search page....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate home page" name="To validate the home page" time="0.035659">
+        <system-out><![CDATA[Given User is on home page..................................................passed
+When User enter the details.................................................passed
+Then user Click the ok button and user is on search page....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate home page" name="To Validate the Search Page" time="0.024681">
+        <system-out><![CDATA[When user enter the valid details...........................................passed
+Then User click the ok......................................................passed
+And User is navigating to payment page......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate home page" name="To validate the home page" time="0.072812">
+        <system-out><![CDATA[Given User is on home page..................................................passed
+When User enter the details.................................................passed
+Then user Click the ok button and user is on search page....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate home page" name="To Validate the Search Page" time="0.034999">
+        <system-out><![CDATA[When user enter the valid details...........................................passed
+Then User click the ok......................................................passed
+And User is navigating to payment page......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate home page" name="To validate the payment page" time="0.028926">
+        <system-out><![CDATA[When User enter the payment info for purchasing the product.................passed
+Then User enter the buy now button..........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

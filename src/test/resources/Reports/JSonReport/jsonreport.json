@@ -1,0 +1,305 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-19T09:54:31.182Z",
+        "line": 2,
+        "name": "To validate the home page",
+        "description": "",
+        "id": "to-validate-home-page;to-validate-the-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 171644057,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User is on home page",
+            "match": {
+              "location": "StepDefinition.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9007905,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User enter the details",
+            "match": {
+              "location": "StepDefinition.user_enter_the_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8699994,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Click the ok button and user is on search page",
+            "match": {
+              "location": "StepDefinition.user_Click_the_ok_button_and_user_is_on_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Validate home page",
+    "description": "",
+    "id": "to-validate-home-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/File1.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-19T09:54:31.512Z",
+        "line": 2,
+        "name": "To validate the home page",
+        "description": "",
+        "id": "to-validate-home-page;to-validate-the-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5669184,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User is on home page",
+            "match": {
+              "location": "StepDefinition.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8455476,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User enter the details",
+            "match": {
+              "location": "StepDefinition.user_enter_the_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8081153,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Click the ok button and user is on search page",
+            "match": {
+              "location": "StepDefinition.user_Click_the_ok_button_and_user_is_on_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-19T09:54:31.549Z",
+        "line": 7,
+        "name": "To Validate the Search Page",
+        "description": "",
+        "id": "to-validate-home-page;to-validate-the-search-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9715496,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enter the valid details",
+            "match": {
+              "location": "StepDefinition.user_enter_the_valid_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4568553,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click the ok",
+            "match": {
+              "location": "StepDefinition.user_click_the_ok()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4666360,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User is navigating to payment page",
+            "match": {
+              "location": "StepDefinition.user_is_navigating_to_payment_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "To Validate home page",
+    "description": "",
+    "id": "to-validate-home-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/File2.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-19T09:54:31.575Z",
+        "line": 3,
+        "name": "To validate the home page",
+        "description": "",
+        "id": "to-validate-home-page;to-validate-the-home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26791272,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on home page",
+            "match": {
+              "location": "StepDefinition.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6879093,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User enter the details",
+            "match": {
+              "location": "StepDefinition.user_enter_the_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6696158,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Click the ok button and user is on search page",
+            "match": {
+              "location": "StepDefinition.user_Click_the_ok_button_and_user_is_on_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-19T09:54:31.650Z",
+        "line": 8,
+        "name": "To Validate the Search Page",
+        "description": "",
+        "id": "to-validate-home-page;to-validate-the-search-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7788940,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user enter the valid details",
+            "match": {
+              "location": "StepDefinition.user_enter_the_valid_details()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12870075,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User click the ok",
+            "match": {
+              "location": "StepDefinition.user_click_the_ok()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6992598,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User is navigating to payment page",
+            "match": {
+              "location": "StepDefinition.user_is_navigating_to_payment_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-06-19T09:54:31.687Z",
+        "line": 13,
+        "name": "To validate the payment page",
+        "description": "",
+        "id": "to-validate-home-page;to-validate-the-payment-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 17278031,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User enter the payment info for purchasing the product",
+            "match": {
+              "location": "StepDefinition.user_enter_the_payment_info_for_purchasing_the_product()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6777664,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User enter the buy now button",
+            "match": {
+              "location": "StepDefinition.user_enter_the_buy_now_button()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Validate home page",
+    "description": "",
+    "id": "to-validate-home-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/File3.feature",
+    "tags": []
+  }
+]

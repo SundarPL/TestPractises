@@ -1,0 +1,17 @@
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User is on home page
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  -utton and  User enter the details
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - user Click the ok buser is on search page:Successfull
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User is on home page
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User enter the details
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - user Click the ok button and user is on search page:Successfull
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - user enter the valid details
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User click the ok
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User is navigating to payment page:Successfull
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User is on home page
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User enter the details
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - user Click the ok button and user is on search page:Successfull
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - user enter the valid details
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User click the ok
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User is navigating to payment page:Successfull
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User enter the payment info for purchasing the product
+[main] INFO  org.loginfo.Log4jPropertyConfigurator  - User enter the buy now button:Successfully paid
