@@ -12,10 +12,5 @@ import io.cucumber.junit.CucumberOptions;
 					"xml:src\\test\\resources\\Reports\\XMLReport\\xmlreport.xml",
 					"json:src\\test\\resources\\Reports\\JSonReport\\jsonreport.json"})
 public class ReRunner {
-	@AfterClass
-	public static void reporting() {
-		JVMReport.JVMReporting("src\\test\\resources\\Reports\\JSonReport\\jsonreport.json");
-
-	}
-
+	
 }
