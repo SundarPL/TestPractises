@@ -1,0 +1,6 @@
+org\stepdefinition\JVMReport.class
+org\runner\Runner.class
+org\stepdefinition\StepDefinition.class
+org\stepdefinition\Hooks.class
+org\runner\ReRunner.class
+org\loginfo\Log4jPropertyConfigurator.class

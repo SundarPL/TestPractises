@@ -3,17 +3,75 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-06-19T09:54:31.182Z",
+        "start_timestamp": "2020-06-28T07:25:53.230Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1229230,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 243914,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 120750,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod1()"
+            }
+          }
+        ],
         "line": 2,
         "name": "To validate the home page",
         "description": "",
         "id": "to-validate-home-page;to-validate-the-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 160597,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 102637,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 104448,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod2()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 171644057,
+              "duration": 182828087,
               "status": "passed"
             },
             "line": 3,
@@ -25,7 +83,7 @@
           },
           {
             "result": {
-              "duration": 9007905,
+              "duration": 32159226,
               "status": "passed"
             },
             "line": 4,
@@ -37,7 +95,7 @@
           },
           {
             "result": {
-              "duration": 8699994,
+              "duration": 3648447,
               "status": "passed"
             },
             "line": 5,
@@ -61,17 +119,75 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-06-19T09:54:31.512Z",
+        "start_timestamp": "2020-06-28T07:25:53.546Z",
+        "before": [
+          {
+            "result": {
+              "duration": 204671,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 115919,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 526468,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod1()"
+            }
+          }
+        ],
         "line": 2,
         "name": "To validate the home page",
         "description": "",
         "id": "to-validate-home-page;to-validate-the-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 134635,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 84525,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 73657,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod2()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 5669184,
+              "duration": 5035860,
               "status": "passed"
             },
             "line": 3,
@@ -83,7 +199,7 @@
           },
           {
             "result": {
-              "duration": 8455476,
+              "duration": 3234880,
               "status": "passed"
             },
             "line": 4,
@@ -95,7 +211,7 @@
           },
           {
             "result": {
-              "duration": 8081153,
+              "duration": 14345649,
               "status": "passed"
             },
             "line": 5,
@@ -108,17 +224,75 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-19T09:54:31.549Z",
+        "start_timestamp": "2020-06-28T07:25:53.583Z",
+        "before": [
+          {
+            "result": {
+              "duration": 147919,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 71242,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 140069,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod1()"
+            }
+          }
+        ],
         "line": 7,
         "name": "To Validate the Search Page",
         "description": "",
         "id": "to-validate-home-page;to-validate-the-search-page",
+        "after": [
+          {
+            "result": {
+              "duration": 230028,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 96600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 94788,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod2()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 9715496,
+              "duration": 5063028,
               "status": "passed"
             },
             "line": 8,
@@ -130,7 +304,7 @@
           },
           {
             "result": {
-              "duration": 4568553,
+              "duration": 4124201,
               "status": "passed"
             },
             "line": 9,
@@ -142,7 +316,7 @@
           },
           {
             "result": {
-              "duration": 4666360,
+              "duration": 3012097,
               "status": "passed"
             },
             "line": 10,
@@ -166,17 +340,75 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2020-06-19T09:54:31.575Z",
+        "start_timestamp": "2020-06-28T07:25:53.603Z",
+        "before": [
+          {
+            "result": {
+              "duration": 150937,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 79695,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 74261,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod1()"
+            }
+          }
+        ],
         "line": 3,
         "name": "To validate the home page",
         "description": "",
         "id": "to-validate-home-page;to-validate-the-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 95996,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 81506,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 58563,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod2()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 26791272,
+              "duration": 2532118,
               "status": "passed"
             },
             "line": 4,
@@ -188,7 +420,7 @@
           },
           {
             "result": {
-              "duration": 6879093,
+              "duration": 14283463,
               "status": "passed"
             },
             "line": 5,
@@ -200,7 +432,7 @@
           },
           {
             "result": {
-              "duration": 6696158,
+              "duration": 2391444,
               "status": "passed"
             },
             "line": 6,
@@ -213,17 +445,75 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-19T09:54:31.650Z",
+        "start_timestamp": "2020-06-28T07:25:53.633Z",
+        "before": [
+          {
+            "result": {
+              "duration": 130410,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 158182,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 166031,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod1()"
+            }
+          }
+        ],
         "line": 8,
         "name": "To Validate the Search Page",
         "description": "",
         "id": "to-validate-home-page;to-validate-the-search-page",
+        "after": [
+          {
+            "result": {
+              "duration": 193803,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1538953,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 132221,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod2()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 7788940,
+              "duration": 3238503,
               "status": "passed"
             },
             "line": 9,
@@ -235,7 +525,7 @@
           },
           {
             "result": {
-              "duration": 12870075,
+              "duration": 3294047,
               "status": "passed"
             },
             "line": 10,
@@ -247,7 +537,7 @@
           },
           {
             "result": {
-              "duration": 6992598,
+              "duration": 2909461,
               "status": "passed"
             },
             "line": 11,
@@ -260,17 +550,75 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-19T09:54:31.687Z",
+        "start_timestamp": "2020-06-28T07:25:53.652Z",
+        "before": [
+          {
+            "result": {
+              "duration": 391833,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 239084,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 170257,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforemethod1()"
+            }
+          }
+        ],
         "line": 13,
         "name": "To validate the payment page",
         "description": "",
         "id": "to-validate-home-page;to-validate-the-payment-page",
+        "after": [
+          {
+            "result": {
+              "duration": 328439,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 116524,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod3()"
+            }
+          },
+          {
+            "result": {
+              "duration": 182936,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterMethod2()"
+            }
+          }
+        ],
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 17278031,
+              "duration": 12624364,
               "status": "passed"
             },
             "line": 14,
@@ -282,7 +630,7 @@
           },
           {
             "result": {
-              "duration": 6777664,
+              "duration": 12751152,
               "status": "passed"
             },
             "line": 15,

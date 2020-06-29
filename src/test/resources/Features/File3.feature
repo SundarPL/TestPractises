@@ -13,3 +13,4 @@ And User is navigating to payment page
 Scenario:To validate the payment page
 When User enter the payment info for purchasing the product
 Then User enter the buy now button
+

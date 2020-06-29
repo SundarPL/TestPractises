@@ -9,6 +9,15 @@ formatter.scenario({
   "description": "",
   "keyword": "Scenario"
 });
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
 formatter.step({
   "name": "User is on home page",
   "keyword": "Given "
@@ -37,6 +46,15 @@ formatter.match({
   "location": "StepDefinition.user_Click_the_ok_button_and_user_is_on_search_page()"
 });
 formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
   "status": "passed"
 });
 formatter.uri("file:src/test/resources/Features/File2.feature");
@@ -50,6 +68,15 @@ formatter.scenario({
   "description": "",
   "keyword": "Scenario"
 });
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
 formatter.step({
   "name": "User is on home page",
   "keyword": "Given "
@@ -80,10 +107,28 @@ formatter.match({
 formatter.result({
   "status": "passed"
 });
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
 formatter.scenario({
   "name": "To Validate the Search Page",
   "description": "",
   "keyword": "Scenario"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
 });
 formatter.step({
   "name": "user enter the valid details",
@@ -113,6 +158,15 @@ formatter.match({
   "location": "StepDefinition.user_is_navigating_to_payment_page()"
 });
 formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
   "status": "passed"
 });
 formatter.uri("file:src/test/resources/Features/File3.feature");
@@ -126,6 +180,15 @@ formatter.scenario({
   "description": "",
   "keyword": "Scenario"
 });
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
 formatter.step({
   "name": "User is on home page",
   "keyword": "Given "
@@ -156,10 +219,28 @@ formatter.match({
 formatter.result({
   "status": "passed"
 });
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
 formatter.scenario({
   "name": "To Validate the Search Page",
   "description": "",
   "keyword": "Scenario"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
 });
 formatter.step({
   "name": "user enter the valid details",
@@ -191,10 +272,28 @@ formatter.match({
 formatter.result({
   "status": "passed"
 });
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
 formatter.scenario({
   "name": "To validate the payment page",
   "description": "",
   "keyword": "Scenario"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
+});
+formatter.before({
+  "status": "passed"
 });
 formatter.step({
   "name": "User enter the payment info for purchasing the product",
@@ -214,6 +313,15 @@ formatter.match({
   "location": "StepDefinition.user_enter_the_buy_now_button()"
 });
 formatter.result({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
+  "status": "passed"
+});
+formatter.after({
   "status": "passed"
 });
 });

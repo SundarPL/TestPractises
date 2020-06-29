@@ -1,6 +1,7 @@
 package org.runner;
 
 import org.junit.AfterClass;
+import org.junit.BeforeClass;
 import org.junit.runner.RunWith;
 import org.stepdefinition.JVMReport;
 
@@ -15,9 +16,17 @@ import io.cucumber.junit.CucumberOptions;
 					"json:src\\test\\resources\\Reports\\JSonReport\\jsonreport.json",
 					"rerun:target\\failed.txt"})
 public class Runner {
+	static String s="Chrome";
 	@AfterClass
 	public static void reporting() {
 		JVMReport.JVMReporting("src\\test\\resources\\Reports\\JSonReport\\jsonreport.json");
+
+	}
+	@BeforeClass
+	public static void launch() {
+		if(s.equalsIgnoreCase("chrome")) {
+			System.out.println("chrome");
+		}
 
 	}
 
